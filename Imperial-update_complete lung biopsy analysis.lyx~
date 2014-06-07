@@ -141,7 +141,7 @@ Using the spectral region of 1090-1036 cm
 
  which is shown to be different between ATR-FTIR measured Non-dysplastic
  Barrett's oesophagus (NDBE) and High Grade Dysplasia (HGD) biopsies, the
- singal:noise ratio was calculated for ATR-FTIR and used to estimate the
+ signal:noise ratio was calculated for ATR-FTIR and used to estimate the
  current signal: noise ratio for FPA-FTIR microscopy.
  
 \end_layout
@@ -184,7 +184,7 @@ reference "sec:FPA-FTIR-microscopy"
 \begin_layout Standard
 Analyses of the stitched FPA-FTIR image of the normal to cancer graduated
  bronchiole biopsy show that different lung tissue types can be distinguished
- when analying 64x64 co-added and averaged pixels.
+ when analysing 64x64 co-added and averaged pixels.
  Distinctions can be made using the peak height of the second derivative
  trough at 1556 cm
 \begin_inset Formula $^{-1}$

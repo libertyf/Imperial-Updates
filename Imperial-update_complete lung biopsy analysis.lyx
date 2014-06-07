@@ -989,16 +989,18 @@ Measurement parameters
 \end_layout
 
 \begin_layout Standard
-A deparaffinised 8 µm dysplastic lung biopsy section was used to test the
- signal: noise ratio and capability of FPA-FTIR microscopy to discriminate
- it's dysplastic and healthy tissue regions.
+In order to distinguish the tissue tissue type and disease stages of the
+ bronchiole biopsy, the same spectral image was used as in the section above.
+ To summarise; a deparaffinised, 8 µm dysplastic lung biopsy section was
+ used.
  A 96x96 element Focal Plane Array (FPA) detector was used for the measurements,
- which gave a projected pixel size of 2.7 µm
+ this gave a projected pixel size of 2.7 µm
 \begin_inset Formula $^{2}$
 \end_inset
 
 .
- Each spectrum was calculated from 128 co-added interferograms at a 4 cm
+ Spectra of each element were calculated from 128 co-added interferograms
+ at a 4 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
@@ -1009,7 +1011,6 @@ A deparaffinised 8 µm dysplastic lung biopsy section was used to test the
 
  window to create a pseudo hemisphere in order to focus the IR light, and
  reduce light scattering.
- 
 \end_layout
 
 \begin_layout Subsection

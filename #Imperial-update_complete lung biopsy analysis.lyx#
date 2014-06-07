@@ -141,7 +141,7 @@ Using the spectral region of 1090-1036 cm
 
  which is shown to be different between ATR-FTIR measured Non-dysplastic
  Barrett's oesophagus (NDBE) and High Grade Dysplasia (HGD) biopsies, the
- signal:noise ratio was calculated for ATR-FTIR and used to estimate the
+ singal:noise ratio was calculated for ATR-FTIR and used to estimate the
  current signal: noise ratio for FPA-FTIR microscopy.
  
 \end_layout
@@ -184,7 +184,7 @@ reference "sec:FPA-FTIR-microscopy"
 \begin_layout Standard
 Analyses of the stitched FPA-FTIR image of the normal to cancer graduated
  bronchiole biopsy show that different lung tissue types can be distinguished
- when analysing 64x64 co-added and averaged pixels.
+ when analying 64x64 co-added and averaged pixels.
  Distinctions can be made using the peak height of the second derivative
  trough at 1556 cm
 \begin_inset Formula $^{-1}$
@@ -231,9 +231,9 @@ Eighty fresh lung biopsies were recently collected and measured using ATR-FTIR
  spectroscopy.
  After separating the four histologically classified groups (normal, LGD,
  HGD and cancer) into their sidedness using information from FPA-FTIR microscopy
-, disease stage differences can be noted in both the surface of the biopsy,
+, disease stage differences can be noted in both the surfac of the biopsy,
  the epithelium, and the underlying side of the biopsy, the lamina propria.
- In the epithelium tissue the most prominent differences occurred in the
+ In the epithelium tissue the most prominant differences occured in the
  lipid region 1738 cm
 \begin_inset Formula $^{-1}$
 \end_inset
@@ -261,15 +261,7 @@ Eighty fresh lung biopsies were recently collected and measured using ATR-FTIR
 \end_layout
 
 \begin_layout Standard
-These initial results are encouraging with only 80 biopsies.
- Additional data should further resolve these spectral differences.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage pagebreak
-\end_inset
-
-
+These initial results are encouraging and additional data 
 \end_layout
 
 \begin_layout Section

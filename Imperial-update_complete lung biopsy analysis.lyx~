@@ -110,19 +110,27 @@ enumitem
 \begin_body
 
 \begin_layout Title
+
+\lang british
 Assessing Dysplasia of Bronchiole Biopsies with FPA-FTIR imaging and ATR-FTIR
  spectroscopy
 \end_layout
 
 \begin_layout Author
+
+\lang british
 Liberty Foreman
 \end_layout
 
 \begin_layout Section*
+
+\lang british
 Report Summary
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 This report has three sections which are outlined below:
 \end_layout
 
@@ -131,22 +139,28 @@ This report has three sections which are outlined below:
 \end_layout
 
 \begin_layout Enumerate-Resume
+
+\lang british
 Signal:Noise Ratio Requirements for Discrimination of NDBE and HGD IR Signatures
 \end_layout
 
 \begin_layout Standard
-Using the spectral region of 1090-1036 cm
+
+\lang british
+The ATR-FTIR spectral region of 1090-1036 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
- which is shown to be different between ATR-FTIR measured Non-dysplastic
- Barrett's oesophagus (NDBE) and High Grade Dysplasia (HGD) biopsies, the
- signal:noise ratio was calculated for ATR-FTIR and used to estimate the
- current signal: noise ratio for FPA-FTIR microscopy.
+ has previously shown differences between Non-dysplastic Barrett's oesophagus
+ (NDBE) and High Grade Dysplasia (HGD) biopsies.
+ The signal:noise ratio was calculated for ATR-FTIR in this region and subsequen
+tly used to estimate the current signal: noise ratio for FPA-FTIR microscopy.
  
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 From the calculations we can conclude that the signal: noise in the 1090-1036
  cm
 \begin_inset Formula $^{-1}$
@@ -160,11 +174,11 @@ From the calculations we can conclude that the signal: noise in the 1090-1036
 \begin_inset Formula $^{-1}$
 \end_inset
 
-, with a CaF
+ resolution, with a CaF
 \begin_inset Formula $_{2}$
 \end_inset
 
- psudohemisphere and 64x64 co-added and averaged pixels.
+ pseudo hemisphere and 64x64 co-added and averaged pixels.
  This resolution is currently at the limit of detection for dysplasia-related
  spectral changes.
  However, it could be possible to detect tissue type changes.
@@ -172,6 +186,8 @@ From the calculations we can conclude that the signal: noise in the 1090-1036
 \end_layout
 
 \begin_layout Enumerate-Resume
+
+\lang british
 \begin_inset CommandInset ref
 LatexCommand nameref
 reference "sec:FPA-FTIR-microscopy"
@@ -182,6 +198,8 @@ reference "sec:FPA-FTIR-microscopy"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 Analyses of the stitched FPA-FTIR image of the normal to cancer graduated
  bronchiole biopsy show that different lung tissue types can be distinguished
  when analysing 64x64 co-added and averaged pixels.
@@ -217,6 +235,8 @@ Analyses of the stitched FPA-FTIR image of the normal to cancer graduated
 \end_layout
 
 \begin_layout Enumerate-Resume
+
+\lang british
 \begin_inset CommandInset ref
 LatexCommand nameref
 reference "sec:ATR-FTIR"
@@ -227,45 +247,52 @@ reference "sec:ATR-FTIR"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 Eighty fresh lung biopsies were recently collected and measured using ATR-FTIR
  spectroscopy.
  After separating the four histologically classified groups (normal, LGD,
  HGD and cancer) into their sidedness using information from FPA-FTIR microscopy
-, disease stage differences can be noted in both the surface of the biopsy,
- the epithelium, and the underlying side of the biopsy, the lamina propria.
- In the epithelium tissue the most prominent differences occurred in the
- lipid region 1738 cm
+ data, disease stage differences can be noted in both the surface of the
+ biopsy, the epithelium, and the underlying side of the biopsy, the lamina
+ propria.
+ In the analyses of the epithelium catagory the most prominent differences
+ occurred in the lipid region at 1738 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
-, between 1300-1250 cm
+, and also between regions 1300-1250 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
- and between 1100-950 cm
+ and 1100-950 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
 .
- In the lamina propria, cancerous tissue has a larger lipid band at 1738
- cm
+ In the analyses of the lamina propria catagory, cancerous tissue has a
+ larger lipid band at 1738 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
- than the other classes of lung biopsies, and the 1190-1140 cm
+ than the other classes of lung biopsies, the 1190-1140 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
- shows a possible transition from healthy to cancerous biopsies.
+ region also shows a possible transition from healthy to cancerous biopsies.
  
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 These initial results are encouraging with only 80 biopsies.
  Additional data should further resolve these spectral differences.
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -273,6 +300,8 @@ These initial results are encouraging with only 80 biopsies.
 \end_layout
 
 \begin_layout Section
+
+\lang british
 Signal:Noise Ratio Requirements for Discrimination of NDBE and HGD IR Signatures
 \begin_inset Argument 1
 status collapsed
@@ -294,6 +323,8 @@ name "sec:Signal:Noise-Ratio-Requirements"
 \end_layout
 
 \begin_layout Subsection
+
+\lang british
 Calculation of single element ATR-FTIR signal:noise ratio
 \begin_inset CommandInset label
 LatexCommand label
@@ -305,11 +336,15 @@ name "sub:Single-Element-ATR-FTIR"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 In order to detect the subtle differences between NDBE and HGD IR signatures,
  the noise has to be significantly lower than the discriminatory signal(s).
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 The single element ATR-FTIR difference spectra of the of 36 averaged NDBE
  surface biopsies and 31 averaged HGD surface biopsies (approximately 5
  mm
@@ -383,7 +418,7 @@ ms of both the sample and the background at 4 cm
 \begin_inset Formula $^{-5}$
 \end_inset
 
- when calculated from a moving average of the peak heights with a 54 cm
+ when calculated from a moving average using a 54 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
@@ -409,6 +444,8 @@ reference "fig:a)-ATR-noise"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 This does not take into account other factors that might distort the baseline
  and decrease this ratio.
  However, it should also be noted that the single element system is averaging
@@ -419,12 +456,16 @@ This does not take into account other factors that might distort the baseline
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset Float figure
 wide false
 sideways false
 status open
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/MATLAB/P3_Classification-Experiments/Models/Signal-Noise-Calculations/Abs_normVdys_differences_ATR.png
 	display false
@@ -443,6 +484,8 @@ sideways false
 status open
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/MATLAB/P3_Classification-Experiments/Models/Signal-Noise-Calculations/Barretts_Abs_normVdys_differences_diffonly_ATR.png
 	display false
@@ -459,12 +502,18 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
 a) Absolute ATR-FTIR spectra of 36 averaged surface NDBE biopsies, 31 averaged
  surface HGD biopsies, both normalised to the amide II area, with water
- and water vapour subtracted.
+ and water 
+\lang british
+vapour
+\lang english
+ subtracted.
  In black is their difference spectrum (NDBE-HGD).
  b) The NDBE-HGD difference spectrum.
  
@@ -488,12 +537,16 @@ name "fig:ATR-FTIR-dys-changes"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset Float figure
 wide false
 sideways false
 status open
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/Descriptive-Images/typicalATRBarrettsBiopsySpectrum.png
 	display false
@@ -512,6 +565,8 @@ sideways false
 status open
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/MATLAB/P3_Classification-Experiments/Models/Signal-Noise-Calculations/Barretts_Abs_Blank-Noise_spectrum.png
 	display false
@@ -528,22 +583,27 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
 a) A typical biopsy spectrum recorded on an ATR-FTIR spectrometer, with
- water and water vapour subtracted (500 co added scans) b) In blue, an absolute
- spectrum of a blank sample from 1800-900 cm
+ water and water 
+\lang british
+vapour
+\lang english
+ subtracted (500 co added scans) b) In blue, an absolute spectrum of a blank
+ sample from 1800-900 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
- (500 co-added scans).
- In green is the peak to trough differences of the blank spectrum, and in
- red is the moving average of the peak heights in green with 52 cm
+ (500 co-added scans) and in red is the moving average of the peak heights
+ of the noise using a 54 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
- window
+ window.
 \begin_inset CommandInset label
 LatexCommand label
 name "fig:a)-ATR-noise"
@@ -564,6 +624,8 @@ name "fig:a)-ATR-noise"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset ERT
 status open
 
@@ -580,6 +642,8 @@ FloatBarrier
 \end_layout
 
 \begin_layout Subsection
+
+\lang british
 Calculation of FPA-FTIR Microscopy of Dysplastic Lung Biopsy signal:noise
  ratios
 \begin_inset Argument 1
@@ -595,6 +659,8 @@ FPA-FTIR Microscopy signal:noise ratio calculations
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 To determine the signal: noise ratio requirement of FPA-FTIR microscopy
  to discriminate dysplastic from normal regions, a deparaffinised, 8 µm
  dysplastic lung biopsy section was used.
@@ -620,6 +686,8 @@ To determine the signal: noise ratio requirement of FPA-FTIR microscopy
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 The amide II signals varied between 0.05 and 0.3.
  Using the mean amide II signal of 0.1, the expected difference signal between
  dysplastic and normal tissue at 1090-1036 cm
@@ -696,12 +764,16 @@ b shows examples of baseline spectra from such binned blocks of pixels that
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset Float table
 wide false
 sideways false
 status collapsed
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
@@ -731,6 +803,8 @@ name "tab:FTIR-image-S2N-ratio"
 \begin_layout Plain Layout
 \noindent
 \align center
+
+\lang british
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="2">
 <features rotate="0" tabularvalignment="middle">
@@ -741,6 +815,8 @@ name "tab:FTIR-image-S2N-ratio"
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Mean amide II height
 \end_layout
 
@@ -750,6 +826,8 @@ Mean amide II height
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 0.1 abs units
 \end_layout
 
@@ -761,6 +839,8 @@ Mean amide II height
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Lowest amide II height
 \end_layout
 
@@ -770,6 +850,8 @@ Lowest amide II height
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 0.05 abs units
 \end_layout
 
@@ -781,6 +863,8 @@ Lowest amide II height
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Highest amide II height
 \end_layout
 
@@ -790,6 +874,8 @@ Highest amide II height
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 0.3 abs units
 \end_layout
 
@@ -801,6 +887,8 @@ Highest amide II height
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Mean signal:noise (assuming 0.1 amide II height)
 \end_layout
 
@@ -810,6 +898,8 @@ Mean signal:noise (assuming 0.1 amide II height)
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 1.0
 \end_layout
 
@@ -821,6 +911,8 @@ Mean signal:noise (assuming 0.1 amide II height)
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Standard deviation of signal:noise
 \end_layout
 
@@ -830,6 +922,8 @@ Standard deviation of signal:noise
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Formula $\pm$
 \end_inset
 
@@ -844,6 +938,8 @@ Standard deviation of signal:noise
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Lowest signal:noise
 \end_layout
 
@@ -853,6 +949,8 @@ Lowest signal:noise
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 0.2
 \end_layout
 
@@ -864,6 +962,8 @@ Lowest signal:noise
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Highest signal:noise 
 \end_layout
 
@@ -873,6 +973,8 @@ Highest signal:noise
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 3.8
 \end_layout
 
@@ -892,12 +994,16 @@ Highest signal:noise
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset Float figure
 wide false
 sideways false
 status collapsed
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/Other Projects/Jim/Descriptive-images/Typical_FTIRimage-biopsy_1800-1000.png
 	display false
@@ -916,6 +1022,8 @@ sideways false
 status open
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/Other Projects/Jim/Imaging/Analysis/Signal2Noise/Hi-Lo_blank_noise_52cm-window.png
 	display false
@@ -956,6 +1064,8 @@ name "fig:a)-FTIRimage-typical"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset ERT
 status open
 
@@ -973,7 +1083,7 @@ FloatBarrier
 
 \begin_layout Section
 
-\series bold
+\lang british
 FPA-FTIR microscopy of a Bronchiole Biopsy
 \begin_inset CommandInset label
 LatexCommand label
@@ -985,20 +1095,26 @@ name "sec:FPA-FTIR-microscopy"
 \end_layout
 
 \begin_layout Subsection
+
+\lang british
 Measurement parameters
 \end_layout
 
 \begin_layout Standard
-A deparaffinised 8 µm dysplastic lung biopsy section was used to test the
- signal: noise ratio and capability of FPA-FTIR microscopy to discriminate
- it's dysplastic and healthy tissue regions.
+
+\lang british
+In order to distinguish the tissue tissue type and disease stages of the
+ bronchiole biopsy, the same spectral image was used as in the section above.
+ To summarise; a deparaffinised, 8 µm dysplastic lung biopsy section was
+ used.
  A 96x96 element Focal Plane Array (FPA) detector was used for the measurements,
- which gave a projected pixel size of 2.7 µm
+ this gave a projected pixel size of 2.7 µm
 \begin_inset Formula $^{2}$
 \end_inset
 
 .
- Each spectrum was calculated from 128 co-added interferograms at a 4 cm
+ Spectra of each element were calculated from 128 co-added interferograms
+ at a 4 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
@@ -1009,14 +1125,17 @@ A deparaffinised 8 µm dysplastic lung biopsy section was used to test the
 
  window to create a pseudo hemisphere in order to focus the IR light, and
  reduce light scattering.
- 
 \end_layout
 
 \begin_layout Subsection
+
+\lang british
 Assessing tissue types 
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 In order to make comparisons between the different disease states of a fresh
  biopsy with ATR-FTIR spectroscopy, the sidedness of the biopsy first needs
  to be determined.
@@ -1026,6 +1145,8 @@ In order to make comparisons between the different disease states of a fresh
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset Float figure
 wide false
 sideways false
@@ -1034,6 +1155,8 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align center
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/Other Projects/Jim/Imaging/Analysis/Sidedness/Figures/Jim3Cluster_Histology.png
 	display false
@@ -1045,12 +1168,16 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Float figure
 wide false
 sideways false
 status open
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/Other Projects/Jim/Imaging/Analysis/Sidedness/Figures/sidedness-spectra.png
 	display false
@@ -1069,6 +1196,8 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align right
+
+\lang british
 \begin_inset ERT
 status open
 
@@ -1087,6 +1216,8 @@ vspace{-220pt}
 \begin_layout Plain Layout
 \noindent
 \align right
+
+\lang british
 \begin_inset Float figure
 wide false
 sideways false
@@ -1095,6 +1226,8 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align right
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/Other Projects/Jim/Imaging/Analysis/Sidedness/Figures/Jim_1556height_image.png
 	display false
@@ -1111,6 +1244,8 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset VSpace bigskip
 \end_inset
 
@@ -1118,6 +1253,8 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
@@ -1128,11 +1265,16 @@ a) H&E section of the bronchiole sample.
 \end_inset
 
  region of the spectra.
- All spectra were normalised to the second derivative amide II area.
+ All spectra were normalised to the second derivative amide II area before
+ 
+\lang british
+analysing
+\lang english
+.
  The dashed box indicates the area shown in the H&E section.
  c) Extracted spectra showing the average of the epithelium and lamina propria,
  where the grey area shows the region in which paraffin is known to contribute.
- d) Heat map that shows epithelium (light red) and lmaina propria (dark
+ d) Heat map that shows epithelium (light red) and lamina propria (dark
  red) separated on the second derivative 1556 cm
 \begin_inset Formula $^{-1}$
 \end_inset
@@ -1158,6 +1300,8 @@ name "fig:HCA"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 Hierarchical clustering analysis (HCA) of the 1575-1450 cm
 \begin_inset Formula $^{-1}$
 \end_inset
@@ -1189,6 +1333,8 @@ c shows the average of the extracted spectra, after their conversion to
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 These analyses of the 1354-1186 cm
 \begin_inset Formula $^{-1}$
 \end_inset
@@ -1204,6 +1350,8 @@ These analyses of the 1354-1186 cm
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset ERT
 status open
 
@@ -1220,10 +1368,14 @@ FloatBarrier
 \end_layout
 
 \begin_layout Subsection
+
+\lang british
 Assessing dysplasia
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 Although the signal:noise ratio after the co-addition and averaging in blocks
  of 64 pixels was high enough to distinguish tissue types, it was not enough
  to resolve the smaller differences expected between different disease states
@@ -1294,6 +1446,8 @@ reference "fig:FPA-FTIR-dysplastic-changes"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset Float figure
 wide false
 sideways false
@@ -1302,6 +1456,8 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align center
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/Other Projects/Jim/Descriptive-images/Dysplasia-ROIS.png
 	display false
@@ -1312,6 +1468,8 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/Other Projects/Jim/Imaging/Analysis/SecondDerivative/Figures/gradientSample_dysplasia.png
 	display false
@@ -1335,22 +1493,27 @@ status open
 \end_layout
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-a) H&E stained bronchiole section with the histology and coloured boxes
- showing the regions from which the spectra were manually selected are indicated.
- b) FPA-FTIR microspectropic data in the region of 1800-1000 cm
+
+\lang british
+a) H&E stained bronchiole section.
+ The histology is indicated by arrows and the coloured boxes show the regions
+ from which the spectra were manually selected.
+ b) FPA-FTIR microspectroscopic data in the region of 1800-1000 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
-, from manually selected regions of normal, mild, severe and cancerous epitheliu
-m regions of the biopsy indicated above.
+, from the regions of normal, mild, severe and cancerous epithelium regions
+ of the biopsy indicated above.
  c) Identical spectra from the 1350-1050 cm
 \begin_inset Formula $^{-1}$
 \end_inset
 
- region.
+ region, showing the main differences between the disease states.
  Spectra were converted to second derivative with 17 pt SG smoothing and
  normalised to the amide II area.
  There were 72 normal, 53 mild dysplasia, 106 severe dysplasia, 96 cancerous
@@ -1376,6 +1539,8 @@ name "fig:FPA-FTIR-dysplastic-changes"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset ERT
 status open
 
@@ -1393,7 +1558,7 @@ FloatBarrier
 
 \begin_layout Section
 
-\series bold
+\lang british
 ATR-FTIR of Bronchiole Biopsies
 \begin_inset CommandInset label
 LatexCommand label
@@ -1405,10 +1570,14 @@ name "sec:ATR-FTIR"
 \end_layout
 
 \begin_layout Subsection
+
+\lang british
 Data collection
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 Biopsies were placed in individual wells of a custom made device, which
  controls the humidity and temperature (4˚C) of the biopsy during transportation.
  Samples were placed individually onto the prism and ATR-FTIR spectra were
@@ -1428,6 +1597,8 @@ grams.
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 All bronchiole biopsies analysed with ATR-FTIR were subsequently stored
  in 4% formaldehyde and processed for an official diagnoses by histopathology.
  The biopsies were categorised into the following classes by a UCLH expert
@@ -1436,6 +1607,8 @@ All bronchiole biopsies analysed with ATR-FTIR were subsequently stored
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset Float table
 wide true
 sideways false
@@ -1444,6 +1617,8 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align center
+
+\lang british
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
@@ -1466,6 +1641,8 @@ name "tab:biopsies-collected"
 \begin_layout Plain Layout
 \noindent
 \align center
+
+\lang british
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="4">
 <features rotate="0" tabularvalignment="middle">
@@ -1487,6 +1664,8 @@ name "tab:biopsies-collected"
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Patients
 \end_layout
 
@@ -1496,6 +1675,8 @@ Patients
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Biopsies
 \end_layout
 
@@ -1505,6 +1686,8 @@ Biopsies
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Spectra
 \end_layout
 
@@ -1516,6 +1699,8 @@ Spectra
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Normal
 \end_layout
 
@@ -1525,6 +1710,8 @@ Normal
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 21
 \end_layout
 
@@ -1534,6 +1721,8 @@ Normal
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 42
 \end_layout
 
@@ -1543,6 +1732,8 @@ Normal
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 81
 \end_layout
 
@@ -1554,6 +1745,8 @@ Normal
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 LGD
 \end_layout
 
@@ -1563,6 +1756,8 @@ LGD
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 4
 \end_layout
 
@@ -1572,6 +1767,8 @@ LGD
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 7
 \end_layout
 
@@ -1581,6 +1778,8 @@ LGD
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 11
 \end_layout
 
@@ -1592,6 +1791,8 @@ LGD
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 HGD
 \end_layout
 
@@ -1601,6 +1802,8 @@ HGD
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 9
 \end_layout
 
@@ -1610,6 +1813,8 @@ HGD
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 13
 \end_layout
 
@@ -1619,6 +1824,8 @@ HGD
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 26
 \end_layout
 
@@ -1630,6 +1837,8 @@ HGD
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Cancer
 \end_layout
 
@@ -1639,6 +1848,8 @@ Cancer
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 4
 \end_layout
 
@@ -1648,6 +1859,8 @@ Cancer
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 14
 \end_layout
 
@@ -1657,6 +1870,8 @@ Cancer
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 28
 \end_layout
 
@@ -1668,6 +1883,8 @@ Cancer
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 TOTAL
 \end_layout
 
@@ -1677,6 +1894,8 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 28
 \end_layout
 
@@ -1686,6 +1905,8 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 80
 \end_layout
 
@@ -1695,6 +1916,8 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 153
 \end_layout
 
@@ -1714,10 +1937,14 @@ TOTAL
 \end_layout
 
 \begin_layout Subsection
-Assessing the sidedness of the healthy ATR-FTIR bronchial biopsies
+
+\lang british
+Separating healthy ATR-FTIR bronchiole biopsies into their sidedness
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 Based on the analysis of ATR-FTIR data from Barrett’s biopsies and the lung
  cell physiology, different predominant cell types are expected on the two
  main biopsy surfaces: epithelial cells on the natural surface and lamina
@@ -1730,6 +1957,8 @@ Based on the analysis of ATR-FTIR data from Barrett’s biopsies and the lung
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 It is important to note that when placed on the ATR-FTIR prism, one of the
  biopsy surfaces should be in contact with the prism.
  However, in some instances when the biopsy sample is small and not in a
@@ -1744,6 +1973,8 @@ It is important to note that when placed on the ATR-FTIR prism, one of the
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 Hierarchical clustering (Ward’s algorithm) of the 1585-1527 cm
 \begin_inset Formula $^{-1}$
 \end_inset
@@ -1789,6 +2020,8 @@ reference "fig:Sidedness"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset Float figure
 placement t
 wide false
@@ -1798,6 +2031,8 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align center
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/Other Projects/Jim/ATR-FTIR_Biopsies/Analysis/Sidedness/Normal_3groups_+2-3average_sidedness.png
 	display false
@@ -1840,6 +2075,8 @@ name "fig:Sidedness"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset Float table
 wide false
 sideways false
@@ -1848,12 +2085,20 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align center
+
+\lang british
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-a) Distribution of all the spectra across the possible IR cell types b)
- Shows whether the two spectra from the biopsies were of the same cell type,
- or different, or whether the biopsy only had one spectrum.
+a) Distribution of normal, LGD, HGD and cancerous spectra across the possible
+ IR signatures of epithelium, lamina propria and mixed tissue types b) Ideally
+ each biopsy should contain one spectra from the epithelium and one from
+ the lamina propria tissue type.
+ This table shows whether the two spectra from either side of the biopsy
+ resemble IR signatures from the same tissue type, different tissue types,
+ or whether the biopsy only had one spectrum.
+ The assignment of ATR-FTIR tissue type is based on data from the FPA-FTIR
+ image data.
 \begin_inset CommandInset label
 LatexCommand label
 name "tab:b)distributions"
@@ -1871,34 +2116,35 @@ name "tab:b)distributions"
 \begin_layout Plain Layout
 \noindent
 \align center
-\begin_inset space \hspace{}
-\length 2.8cm
-\end_inset
 
-
+\lang british
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="5">
 <features rotate="0" tabularvalignment="middle">
-<column alignment="right" valignment="top">
+<column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <row>
-<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Table a)
 \end_layout
 
 \end_inset
 </cell>
-<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-Number of spectra
+
+\lang british
+Tissue type spectra
 \end_layout
 
 \end_inset
@@ -1921,11 +2167,13 @@ Number of spectra
 
 \end_inset
 </cell>
-<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+<cell multirow="3" alignment="left" valignment="middle" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
+\lang british
+TOTAL
 \end_layout
 
 \end_inset
@@ -1936,7 +2184,9 @@ Number of spectra
 \begin_inset Text
 
 \begin_layout Plain Layout
-Tissue Type
+
+\lang british
+Diagnoses
 \end_layout
 
 \end_inset
@@ -1945,45 +2195,53 @@ Tissue Type
 \begin_inset Text
 
 \begin_layout Plain Layout
-Healthy
-\end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-LGD
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-HGD
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Cancer
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\lang british
 Epithelia
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang british
+Lamina propria
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang british
+mixed
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang british
+Healthy
 \end_layout
 
 \end_inset
@@ -1992,6 +2250,8 @@ Epithelia
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 41
 \end_layout
 
@@ -2001,44 +2261,8 @@ Epithelia
 \begin_inset Text
 
 \begin_layout Plain Layout
-5
-\end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-11
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Lamina propria
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\lang british
 16
 \end_layout
 
@@ -2048,16 +2272,9 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
-3
-\end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-12
+\lang british
+24
 \end_layout
 
 \end_inset
@@ -2066,18 +2283,23 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
-17
+
+\series bold
+\lang british
+81
 \end_layout
 
 \end_inset
 </cell>
 </row>
 <row>
-<cell alignment="right" valignment="top" topline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-Mixed
+
+\lang british
+LGD
 \end_layout
 
 \end_inset
@@ -2086,7 +2308,9 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
-24
+
+\lang british
+5
 \end_layout
 
 \end_inset
@@ -2095,6 +2319,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 3
 \end_layout
 
@@ -2104,6 +2330,66 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\series bold
+\lang british
+11
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang british
+HGD
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang british
+8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang british
+12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang british
 6
 \end_layout
 
@@ -2113,18 +2399,23 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
-N/A
+
+\series bold
+\lang british
+26
 \end_layout
 
 \end_inset
 </cell>
 </row>
 <row>
-<cell alignment="right" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-TOTAL
+
+\lang british
+Cancer
 \end_layout
 
 \end_inset
@@ -2133,15 +2424,8 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
-81
-\end_layout
 
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
+\lang british
 11
 \end_layout
 
@@ -2151,7 +2435,20 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
-26
+
+\lang british
+17
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\lang british
+N/A
 \end_layout
 
 \end_inset
@@ -2160,6 +2457,9 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
+\lang british
 28
 \end_layout
 
@@ -2174,6 +2474,8 @@ TOTAL
 \end_layout
 
 \begin_layout Plain Layout
+
+\lang british
 \begin_inset VSpace medskip
 \end_inset
 
@@ -2183,6 +2485,8 @@ TOTAL
 \begin_layout Plain Layout
 \noindent
 \align center
+
+\lang british
 \begin_inset Tabular
 <lyxtabular version="3" rows="10" columns="6">
 <features rotate="0" tabularvalignment="middle">
@@ -2197,6 +2501,8 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Table b)
 \end_layout
 
@@ -2215,6 +2521,8 @@ Table b)
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Number of biopsies 
 \end_layout
 
@@ -2253,6 +2561,8 @@ Number of biopsies
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Biopsy side one
 \end_layout
 
@@ -2262,6 +2572,8 @@ Biopsy side one
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Biopsy side two
 \end_layout
 
@@ -2271,6 +2583,8 @@ Biopsy side two
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Healthy 
 \end_layout
 
@@ -2280,6 +2594,8 @@ Healthy
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 LGD
 \end_layout
 
@@ -2289,6 +2605,8 @@ LGD
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 HGD
 \end_layout
 
@@ -2298,6 +2616,8 @@ HGD
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Cancer
 \end_layout
 
@@ -2309,6 +2629,8 @@ Cancer
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Epithelium
 \end_layout
 
@@ -2318,6 +2640,8 @@ Epithelium
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Lamina propria
 \end_layout
 
@@ -2327,6 +2651,8 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 6
 \end_layout
 
@@ -2336,6 +2662,8 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 0
 \end_layout
 
@@ -2345,6 +2673,8 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 0
 \end_layout
 
@@ -2354,6 +2684,8 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 3
 \end_layout
 
@@ -2365,6 +2697,8 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Epithelium 
 \end_layout
 
@@ -2374,6 +2708,8 @@ Epithelium
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Mixed
 \end_layout
 
@@ -2383,6 +2719,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 14
 \end_layout
 
@@ -2392,6 +2730,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 1
 \end_layout
 
@@ -2401,6 +2741,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 4
 \end_layout
 
@@ -2410,6 +2752,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 N/A
 \end_layout
 
@@ -2421,6 +2765,8 @@ N/A
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Lamina propria
 \end_layout
 
@@ -2430,6 +2776,8 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Mixed
 \end_layout
 
@@ -2439,6 +2787,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 6
 \end_layout
 
@@ -2448,6 +2798,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 1
 \end_layout
 
@@ -2457,6 +2809,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 2
 \end_layout
 
@@ -2466,6 +2820,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 N/A
 \end_layout
 
@@ -2477,6 +2833,8 @@ N/A
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Epithelium 
 \end_layout
 
@@ -2495,6 +2853,8 @@ Epithelium
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 9
 \end_layout
 
@@ -2504,6 +2864,8 @@ Epithelium
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 1
 \end_layout
 
@@ -2513,6 +2875,8 @@ Epithelium
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 2
 \end_layout
 
@@ -2522,6 +2886,8 @@ Epithelium
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 4
 \end_layout
 
@@ -2533,6 +2899,8 @@ Epithelium
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Lamina propria
 \end_layout
 
@@ -2551,6 +2919,8 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 2
 \end_layout
 
@@ -2560,6 +2930,8 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 1
 \end_layout
 
@@ -2569,6 +2941,8 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 2
 \end_layout
 
@@ -2578,6 +2952,8 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 7
 \end_layout
 
@@ -2589,6 +2965,8 @@ Lamina propria
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Mixed
 \end_layout
 
@@ -2607,6 +2985,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 2
 \end_layout
 
@@ -2616,6 +2996,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 0
 \end_layout
 
@@ -2625,6 +3007,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 3
 \end_layout
 
@@ -2634,6 +3018,8 @@ Mixed
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 N/A
 \end_layout
 
@@ -2645,6 +3031,8 @@ N/A
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 Biopsies with single spectra
 \end_layout
 
@@ -2663,6 +3051,8 @@ Biopsies with single spectra
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 3
 \end_layout
 
@@ -2672,6 +3062,8 @@ Biopsies with single spectra
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 3
 \end_layout
 
@@ -2681,6 +3073,8 @@ Biopsies with single spectra
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 0
 \end_layout
 
@@ -2690,6 +3084,8 @@ Biopsies with single spectra
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 0
 \end_layout
 
@@ -2701,6 +3097,8 @@ Biopsies with single spectra
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\lang british
 TOTAL
 \end_layout
 
@@ -2719,6 +3117,9 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
+\lang british
 42
 \end_layout
 
@@ -2728,6 +3129,9 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
+\lang british
 7
 \end_layout
 
@@ -2737,6 +3141,9 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
+\lang british
 13
 \end_layout
 
@@ -2746,6 +3153,9 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\series bold
+\lang british
 14
 \end_layout
 
@@ -2765,21 +3175,10 @@ TOTAL
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "tab:b)distributions"
 
-\end_inset
-
-a shows the distribution of spectra across the three possible classes in
- 
-\begin_inset CommandInset ref
-LatexCommand formatted
-reference "fig:Sidedness"
-
-\end_inset
-
-.
+\lang british
+After successfully separating the healthy biopsies into their sidedness,
+ the protocol was repeated for the LGD, HGD and cancer biopsies.
  
 \begin_inset CommandInset ref
 LatexCommand formatted
@@ -2787,11 +3186,32 @@ reference "tab:b)distributions"
 
 \end_inset
 
-b shows whether the two spectra from a single biopsy contained spectra from
- either side of the biopsy.
- In total, 22 biopsies showed signatures containing two cell types, and
- only 2 of the biopsies showed spectra from the underlying lamina propria
- side of the biopsy.
+a shows the distribution of spectra across the three possible tissue types,
+ epithelium, lamina propria or mixed.
+ 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "tab:b)distributions"
+
+\end_inset
+
+b indicates whether the two spectra from a single biopsy contained one spectrum
+ from either side of the biopsy.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+Ideally a biopsy would have one spectrum from the epithelium and one from
+ the lamia propria.
+ However due to the size of the biopsy and orientation difficulties this
+ is unlikely to occur with every biopsy.
+ Additional biopsies would be needed to make any conclusions about the distribut
+ion of spectra for LGD, HGD and cancer.
+ However, for the healthy biopsies a total of 22 healthy biopsies showed
+ signatures containing two cell types, and only 2 of the biopsies showed
+ spectra from the underlying lamina propria side of the biopsy.
  Small forceps were used, producing biopsies with a size of ~1 mm
 \begin_inset Formula $^{3}$
 \end_inset
@@ -2806,16 +3226,30 @@ l cells.
 \end_layout
 
 \begin_layout Subsection
+
+\lang british
 Assessing the ATR-FTIR differences in disease stages of the lung
+\end_layout
+
+\begin_layout Standard
+
+\lang british
+After separating the spectra into the sidedness of the biopsies, comparisons
+ of disease state were made between the epithelium group and the lamina
+ propria group separately.
+ 
 \end_layout
 
 \begin_layout Subsubsection
 
 \emph on
+\lang british
 Comparisons of the epithelia
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset ERT
 status open
 
@@ -2832,6 +3266,8 @@ vspace{-8pt}
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 As shown, ATR-FTIR can distinguish cell type.
  In order to make accurate distinctions between disease states, the same
  cell type must be compared.
@@ -2867,6 +3303,8 @@ reference "fig:disease-comp"
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset Float figure
 wide false
 sideways false
@@ -2875,6 +3313,8 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align center
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/Other Projects/Jim/ATR-FTIR_Biopsies/Analysis/Classification/Figures/Normal-cancer_comparisons.png
 	display false
@@ -2915,10 +3355,13 @@ name "fig:disease-comp"
 \begin_layout Subsubsection
 
 \emph on
+\lang british
 Comparisons of the lamina propria
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset ERT
 status open
 
@@ -2935,6 +3378,8 @@ vspace{-8pt}
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 Bronchial dysplasia develops in the epithelial cells, therefore minimal
  change in the lamina propria tissue is expected.
  However, 
@@ -3000,6 +3445,8 @@ b.
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 \begin_inset Float figure
 wide false
 sideways false
@@ -3008,6 +3455,8 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align center
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/Other Projects/Jim/ATR-FTIR_Biopsies/Analysis/Classification/Figures/Normal-cancer_LP_comparisons.png
 	display false
@@ -3028,6 +3477,8 @@ status open
 \begin_layout Plain Layout
 \noindent
 \align center
+
+\lang british
 \begin_inset Graphics
 	filename /Users/Lib/Documents/PhD/Other Projects/Jim/ATR-FTIR_Biopsies/Analysis/Classification/Figures/Normal-cancer_LP_comparisons_1190-1140.png
 	display false
@@ -3077,10 +3528,14 @@ name "fig:LP-diseased"
 \end_layout
 
 \begin_layout Section
+
+\lang british
 Conclusions
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 With the current FPA-FTIR imaging parameters, (96x96 element FPA detector,
  128 co-added interferrograms, 4 cm
 \begin_inset Formula $^{-1}$
@@ -3090,13 +3545,25 @@ With the current FPA-FTIR imaging parameters, (96x96 element FPA detector,
 \begin_inset Formula $_{2}$
 \end_inset
 
- pseudohemisphere) we can distinguish the epithelium and lamina propria
+ pseudo hemisphere) we can distinguish the epithelium and lamina propria
  tissue types of the bronchiole biopsy.
  When regions of interest are selected from the image, it is possible to
  observe changes between, normal, mild and severe dysplasia and cancer.
+ It would be interesting to analyse the same bronchiole biopsy image without
+ the lens, in order to assess whether signal:noise can be improved between
+ 1100-950 cm
+\begin_inset Formula $^{-1}$
+\end_inset
+
+.
+ Additionally it would be interesting to see if the same imaging methods
+ were applied to the Barrett's samples, could the disease state differences
+ observed in the ATR-FTIR spectroscopic data be confirmed.
 \end_layout
 
 \begin_layout Standard
+
+\lang british
 When the tissue type changes between the epithelium and the lamina propria
  at 1556 cm
 \begin_inset Formula $^{-1}$
